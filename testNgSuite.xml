@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<suite name="TS-7 April-07-2014">
+<suite name="TestSuite1">
     <test name="testFactory">
         <classes>
             <class name="FactoryTest" />
@@ -18,21 +18,6 @@
     <test name="testMessagePrintout">
         <classes>
             <class name="WelcomeMessageTest" />
-        </classes>
-    </test>
-    <test name="TestClass">        
-        <classes>
-            <class name="TestClass" />
-        </classes>
-    </test>
-    <test name="TestClassSecond">
-        <classes>
-            <class name="TestClassSecond" />
-        </classes>
-    </test>
-    <test name="testOpenBrowserOnChrome">
-        <classes>
-            <class name="OpenBrowser" />
         </classes>
     </test>
 </suite>

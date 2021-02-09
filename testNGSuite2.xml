@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="TestSuite2">
+    <test name="TestClass">        
+        <classes>
+            <class name="TestClass" />
+        </classes>
+    </test>
+    <test name="TestClassSecond">
+        <classes>
+            <class name="TestClassSecond" />
+        </classes>
+    </test>
+    <test name="testOpenBrowserOnChrome">
+        <classes>
+            <class name="OpenBrowser" />
+        </classes>
+    </test>
+</suite>

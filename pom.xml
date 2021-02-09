@@ -92,6 +92,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>testNgSuite.xml</suiteXmlFile>
+                        <suiteXmlFile>testNGSuite2.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
